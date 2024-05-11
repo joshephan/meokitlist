@@ -1,5 +1,9 @@
+import JinJJaManMoEnMap from "@/components/JinJJaManMoEnMap";
+
 export default function Home() {
   return (
-    <main></main>
+    <main>
+      <JinJJaManMoEnMap />
+    </main>
   )
 }
